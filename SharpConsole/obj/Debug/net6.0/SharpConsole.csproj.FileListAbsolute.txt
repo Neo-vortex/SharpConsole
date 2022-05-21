@@ -1,0 +1,12 @@
+/home/noob/RiderProjects/SharpConsole/SharpConsole/bin/Debug/net6.0/SharpConsole.deps.json
+/home/noob/RiderProjects/SharpConsole/SharpConsole/bin/Debug/net6.0/SharpConsole.dll
+/home/noob/RiderProjects/SharpConsole/SharpConsole/bin/Debug/net6.0/SharpConsole.pdb
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/SharpConsole.csproj.AssemblyReference.cache
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/SharpConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/SharpConsole.AssemblyInfoInputs.cache
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/SharpConsole.AssemblyInfo.cs
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/SharpConsole.csproj.CoreCompileInputs.cache
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/SharpConsole.dll
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/refint/SharpConsole.dll
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/SharpConsole.pdb
+/home/noob/RiderProjects/SharpConsole/SharpConsole/obj/Debug/net6.0/ref/SharpConsole.dll
